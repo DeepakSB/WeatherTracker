@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeatherTracker</string>
+    <string name="weather_tracker">Weather Tracker</string>
+    <string name="search_location">Search Location</string>
+    <string name="no_city_selected">No City Selected</string>
+    <string name="please_search_city">Please Search For A City</string>
+    <string name="city_name">%1$s</string>
+    <string name="temperature_fahrenheit">%1$s&#176; F</string>
+    <string name="humidity">Humidity Val %1$s%%</string>
+    <string name="uv_index">Ultra Violet %1$s</string>
+    <string name="feels_like">Feels Like %1$s&#176;</string>
+</resources>
